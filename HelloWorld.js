@@ -3,6 +3,4 @@ function sum (a, b){
     console.log('Sum is: ', sum);
 }
 
-sum(2, 3); 
-
-
+sum(2, 3);  
